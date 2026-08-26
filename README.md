@@ -139,9 +139,8 @@ VRChat、Windows、その他のソフトウェアのアップデートによっ�
 
 **ホワイトダークマター**
 
-VRC・3D関連の制作やプログラム開発などをしています。
-
-* X（旧Twitter）：https://x.com/whitedarkmatars
+お問い合わせ・連絡先：
+[X（旧Twitter）](https://x.com/whitedarkmatars)
 
 
 
