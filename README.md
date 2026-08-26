@@ -26,7 +26,6 @@ Windowsでは、ダウンロードした `VRC_VoicePet.exe` を実行してく�
 - Windows 10 / 11
 - VRChat
 - マイク
-- インターネット接続
 
 ## 使い方
 
