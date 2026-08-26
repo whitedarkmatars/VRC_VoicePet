@@ -137,8 +137,13 @@ VRChat、Windows、その他のソフトウェアのアップデートによっ�
 
 ## 作者
 
-ホワイトダークマター
-https://x.com/whitedarkmatars
+**ホワイトダークマター**
+
+VRC・3D関連の制作やプログラム開発などをしています。
+
+* X（旧Twitter）：https://x.com/whitedarkmatars
+
+
 
 ## ライセンス
 
