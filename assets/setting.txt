@@ -1,0 +1,8 @@
+mic=Windowsの既定のマイク
+phrase_time=5
+random_min=1
+random_max=3
+max_words=2
+display_time=5
+theme=light
+word_source=音声認識モード
