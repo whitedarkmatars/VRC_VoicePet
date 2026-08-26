@@ -8,7 +8,7 @@ VRChat用のボイス連動ペットギミック向けプログラムです。
 
 最新版の実行ファイルは GitHub Releases からダウンロードできます。
 
-[Releases](../../releases)
+[最新版をダウンロード](../../releases/latest)
 
 Windowsでは、ダウンロードした `VRC_VoicePet.exe` を実行してください。
 
